@@ -1,0 +1,30 @@
+/*
+Theme Name: woocommercetest-child
+Template: woocommercetest
+*/
+li, .link-nav-products {
+  margin-left: 1rem;
+  padding-bottom: 2rem;
+  list-style: none;
+  color: grey; }
+
+.allproducts {
+  margin-left: 10rem;
+  color: grey; }
+
+.content-products img {
+  padding-bottom: 2rem; }
+
+.showallbtn {
+  margin: auto;
+  padding: 0.6rem;
+  width: 25%;
+  margin-top: 2rem;
+  border: 1px solid grey; }
+
+li {
+  border-bottom: 1px grey solid;
+  padding-bottom: 1rem;
+  padding-top: 1rem; }
+
+/*# sourceMappingURL=style.css.map */

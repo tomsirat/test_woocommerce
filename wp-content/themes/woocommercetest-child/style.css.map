@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;EAGE;ACHF,sBAAwB;EACpB,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EACpB,UAAU,EAAE,IAAI;EAChB,KAAK,EAAE,IAAI;;AAEf,YAAa;EACT,WAAW,EAAE,KAAK;EAClB,KAAK,EAAE,IAAI;;AAEf,qBAAsB;EAClB,cAAc,EAAE,IAAI;;AAExB,WAAY;EACR,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,MAAM;EACf,KAAK,EAAE,GAAG;EACV,UAAU,EAAE,IAAI;EAChB,MAAM,EAAE,cAAc;;AClB1B,EAAG;EACC,aAAa,EAAE,cAAc;EAC7B,cAAc,EAAE,IAAI;EACpB,WAAW,EAAE,IAAI",
+"sources": ["static/sass/style.scss","static/sass/_shop-part.scss","static/sass/_footer.scss"],
+"names": [],
+"file": "style.css"
+}

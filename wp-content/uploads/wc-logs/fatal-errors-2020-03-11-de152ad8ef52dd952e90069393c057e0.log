@@ -1,0 +1,234 @@
+2020-03-11T10:49:07+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:49:13+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:49:14+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:49:20+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:49:29+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:49:29+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:49:31+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:49:32+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:49:38+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:49:47+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:50:50+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:50:51+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:50:51+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:123) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:51:53+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:139) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:51:53+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:139) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:51:54+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:139) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:51:55+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:139) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T10:52:02+00:00 CRITICAL Cannot redeclare woocommercetest_scripts() (previously declared in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/functions.php:139) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest/functions.php on line 123
+
+2020-03-11T13:00:34+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:38
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17): in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 38
+
+2020-03-11T13:00:59+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:38
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17): in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 38
+
+2020-03-11T13:01:31+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:38
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17): in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 38
+
+2020-03-11T13:02:31+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:38
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index. in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 38
+
+2020-03-11T13:03:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_regular_price() in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:38
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17) in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 38
+
+2020-03-11T13:05:19+00:00 CRITICAL Uncaught Error: Call to undefined function regular_price() in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:38
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17): re in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 38
+
+2020-03-11T13:08:25+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:38
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(1 in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 38
+
+2020-03-11T13:09:44+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:36
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(1 in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 36
+
+2020-03-11T13:10:25+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:36
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17): in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 36
+
+2020-03-11T13:10:49+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:36
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17): in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 36
+
+2020-03-11T13:12:23+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:36
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17): in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 36
+
+2020-03-11T13:13:17+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:36
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17): in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 36
+
+2020-03-11T13:14:23+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:38
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17): in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 38
+
+2020-03-11T13:21:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:39
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17): in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 39
+
+2020-03-11T13:27:03+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_image_url() in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:36
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/ in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 36
+
+2020-03-11T13:30:41+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_image_url() in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:36
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/ in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 36
+
+2020-03-11T13:32:06+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_image_URL() in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:36
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/ in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 36
+
+2020-03-11T13:34:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_thumbnail_url() in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php:36
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(5): get_template_part('shop-part')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.ph in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/shop-part.php on line 36
+
+2020-03-11T14:39:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_get_price_to_display(), 0 passed in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/header.php on line 88 and at least 1 expected in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/plugins/woocommerce/includes/wc-product-functions.php:1075
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/header.php(88): wc_get_price_to_display()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require('/home/yankee/Do...')
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php( in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/plugins/woocommerce/includes/wc-product-functions.php on line 1075
+
+2020-03-11T14:50:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_short_description() in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/header.php:92
+Stack trace:
+#0 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(724): require()
+#1 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template.php(671): load_template('/home/yankee/Do...', false)
+#2 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/front-page.php(4): get_template_part('header')
+#4 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-includes/template-loader.php(98): include('/home/yankee/Do...')
+#5 /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-blog-header.php(19): require_once('/home/yankee/Do...')
+#6 /home/yankee/Documents/projet-wordpress/testwoocommerce/index.php(17):  in /home/yankee/Documents/projet-wordpress/testwoocommerce/wp-content/themes/woocommercetest-child/header.php on line 92
+
